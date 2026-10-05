@@ -13,6 +13,8 @@ Fermor is a responsive personal-finance website for exploring everyday money dec
 
 ### Install and run
 
+Run these commands from the `fermor-landing-page` directory:
+
 ```bash
 npm install
 npm run dev
@@ -49,15 +51,16 @@ The dashboard, investment overview, and testimonials contain sample content. Acc
 
 ```text
 .
-├── index.html                 # HTML entry point and page metadata
+├── index.html
+├── public/
 ├── src/
-│   ├── App.jsx                 # Application shell, pages, navigation, and interactions
-│   ├── App.css                 # Layout, styling, responsive rules, and animations
-│   ├── DashboardCharts.jsx     # Lazy-loaded dashboard chart components
-│   ├── index.css               # Global reset and base styles
-│   └── main.jsx                # React application entry point
-├── implementation.md          # Product requirements
-├── implementation-plan.md     # Implementation approach and acceptance criteria
+│   ├── App.jsx
+│   ├── App.css
+│   ├── DashboardCharts.jsx
+│   ├── index.css
+│   └── main.jsx
+├── implementation.md
+├── implementation-plan.md
 ├── package.json
 └── vite.config.js
 ```
