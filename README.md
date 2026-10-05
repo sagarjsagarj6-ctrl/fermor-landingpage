@@ -54,8 +54,6 @@ The dashboard, investment overview, and testimonials contain sample content. Acc
 └── fermor-landing-page/
     ├── src/                    # React application and styles
     ├── public/                 # Static public assets
-    ├── implementation.md       # Product requirements
-    ├── implementation-plan.md  # Implementation approach and acceptance criteria
     ├── package.json
     └── README.md               # Application setup and details
 ```

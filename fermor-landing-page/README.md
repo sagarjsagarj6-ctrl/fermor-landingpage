@@ -59,8 +59,6 @@ The dashboard, investment overview, and testimonials contain sample content. Acc
 │   ├── DashboardCharts.jsx
 │   ├── index.css
 │   └── main.jsx
-├── implementation.md
-├── implementation-plan.md
 ├── package.json
 └── vite.config.js
 ```
